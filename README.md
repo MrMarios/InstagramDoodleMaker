@@ -17,7 +17,7 @@ Based on Python
 
 ---
 
-**<h2>INSTRUCTIONS:** 
+**<h2>INSTRUCTIONS:</h2>** 
 
 
 
